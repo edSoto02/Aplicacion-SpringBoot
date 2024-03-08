@@ -1,2 +1,2 @@
 ### Proyecto de una Agenda de contactos realizada en SpringBoot.
-### De un curso prqctico de realizacion de un CRUD.
+### De un curso practico de realizacion de un CRUD.
