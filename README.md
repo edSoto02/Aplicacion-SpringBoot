@@ -120,7 +120,7 @@ Resultado y respuesta en consola.
 ### Uso del proyecto.
 
 1. Clonar el repositorio.
-   - git clone https://github.com/edSoto02/Aplicscion-SpringBoot.git
+   - git clone https://github.com/edSoto02/Aplicacinn-SpringBoot.git
 2. Configuracion de la base de datos.
    - Asegúrate de tener MySQL instalado y configurado en tu máquina.
    - Crea una base de datos llamada agendacontactos.   
