@@ -74,7 +74,64 @@ List<Contacto> findByNombreContainingIgnoreCase(String nombre);
 
 ### Capturas de la ejecucion del proyecto.
 
+1. Esta es la vista principal al iniciar el proyecto.
 
+![vistaprincipal](https://github.com/edSoto02/Aplicacion-SpringBoot/assets/106222946/cb6c5dfc-7bad-4a82-b0ea-fcaf3ff368da)
 
+2. Vista para guardar un contacto.
 
+![guardarcontacto](https://github.com/edSoto02/Aplicacion-SpringBoot/assets/106222946/aa8e8c46-2d6b-4144-a6cf-61550f4ecf7f)
 
+3. Guardamos un par de contactos en la Agenda.
+
+![prueba4](https://github.com/edSoto02/Aplicacion-SpringBoot/assets/106222946/f97c4ca4-ce4a-4c6b-9616-25ead7166e42)
+
+4. Probamos el editar un contacto de la Agenda.
+
+![Edicion](https://github.com/edSoto02/Aplicacion-SpringBoot/assets/106222946/f34d6d62-49db-4cce-9658-a37a6602e56a)
+
+Resultado y respuesta en consola.
+![edicion2](https://github.com/edSoto02/Aplicacion-SpringBoot/assets/106222946/f095bfdd-ac73-46b2-9f72-0ebc4bb378fe)
+
+![edicion3](https://github.com/edSoto02/Aplicacion-SpringBoot/assets/106222946/76ac851b-2e68-4d25-b3a8-ab8d83e953a7)
+
+5. Realizamos una busqueda por nombre en la Agenda.
+
+![busqueda1](https://github.com/edSoto02/Aplicacion-SpringBoot/assets/106222946/4f07254d-cef7-482a-9e8c-6e526a569867)
+
+Resultado y respuesta en consola.
+
+![busqueda2](https://github.com/edSoto02/Aplicacion-SpringBoot/assets/106222946/81208167-38a2-46d9-a39a-ae5022a8c156)
+
+![busqueda3](https://github.com/edSoto02/Aplicacion-SpringBoot/assets/106222946/e766b62c-efc9-4d82-be4a-ff45ad6e853e)
+
+6. Realizamos la eliminación de un contacto en la Agenda.
+
+![eliminar1](https://github.com/edSoto02/Aplicacion-SpringBoot/assets/106222946/9a07d502-c6fb-41e6-9c1f-951da939a00f)
+
+Resultado y respuesta en consola.
+
+![eliminar2](https://github.com/edSoto02/Aplicacion-SpringBoot/assets/106222946/68c58d9c-c74d-4b2f-8f8e-8dc19714ccab)
+
+7. Base de datos.
+
+![registrofina](https://github.com/edSoto02/Aplicacion-SpringBoot/assets/106222946/313154ac-0fe0-4b7b-b839-581b79a63f42)
+
+### Uso del proyecto.
+
+1. Clonar el repositorio.
+   - git clone https://github.com/edSoto02/Aplicscion-SpringBoot.git
+2. Configuracion de la base de datos.
+   - Asegúrate de tener MySQL instalado y configurado en tu máquina.
+   - Crea una base de datos llamada agendacontactos.   
+   - Actualiza las credenciales de la base de datos en el archivo application.properties.
+3. Ejecutar la aplicacion.
+   - Para este caso la palicacion se ejecuto desde Visual Studio Code.
+   - Puedes hacer uso de l mismo o el entorno de tu agrado, comp Eclipse o el mismo SpringBoot.
+4. Acceder a la aplicación.
+   - Abre tu navegador web de preferencia y vistia http://localhost:8080 (Para mi caso fue 8081)
+
+### Contribuciones
+- Las contribuciones son bienvenidas! Si deseas mejorar esta aplicación.
+
+ 
