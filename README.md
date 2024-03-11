@@ -70,9 +70,9 @@ List<Contacto> findByNombreContainingIgnoreCase(String nombre);
   </div>
 </form>
 ```
-## Con estas modificacion se hace funcion de la busqueda de contactos por nombre.
+## Con estas modificación se hace función de la busqueda de contactos por nombre.
 
-### Capturas de la ejecucion del proyecto.
+### Capturas de la ejecución del proyecto.
 
 1. Esta es la vista principal al iniciar el proyecto.
 
@@ -126,8 +126,8 @@ Resultado y respuesta en consola.
    - Crea una base de datos llamada agendacontactos.   
    - Actualiza las credenciales de la base de datos en el archivo application.properties.
 3. Ejecutar la aplicacion.
-   - Para este caso la palicacion se ejecuto desde Visual Studio Code.
-   - Puedes hacer uso de l mismo o el entorno de tu agrado, comp Eclipse o el mismo SpringBoot.
+   - Para este caso la aplicación se ejecuto desde Visual Studio Code.
+   - Puedes hacer uso del mismo o el entorno de tu agrado, como Eclipse o el mismo SpringBoot.
 4. Acceder a la aplicación.
    - Abre tu navegador web de preferencia y vistia http://localhost:8080 (Para mi caso fue 8081)
 
